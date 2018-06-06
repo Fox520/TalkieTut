@@ -1,0 +1,8 @@
+Create a folder "C:\compile" and copy everything from "Part 2"
+Also copy "main.spec" into "C:\compile"
+
+Run:
+	pyinstaller main.spec
+
+Now copy "Roboto-Regular.ttf" to "dist" where your executable is.
+You can now run the .exe
